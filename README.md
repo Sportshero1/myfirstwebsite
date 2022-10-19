@@ -1,2 +1,2 @@
 # myfirstwebsite
-Hello Internet! Welcome to my first website!
+Print("Hello Internet! Welcome to my first website!")
